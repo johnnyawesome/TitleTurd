@@ -1,7 +1,9 @@
 # 💩 TitleTurd 💩
 
 
-Puts a 💩 Turd 💩 in the Title of your Tabs:
+## Puts a 💩 Turd 💩 in the Title of your Tabs:
+
+The internet is full of shit - why not take pride in it?
 
 ![alt text](https://raw.githubusercontent.com/johnnyawesome/TitleTurd/master/Title%20Turd.jpg)
 
