@@ -4,6 +4,7 @@
 ## Puts a 💩 Turd 💩 in the Title of your Tabs:
 
 The internet is full of shit - why not take pride in it?
+Or in the words of Sir Tim Berners-Lee, "The internet has become a giant shopping mall". 
 
 ![alt text](https://raw.githubusercontent.com/johnnyawesome/TitleTurd/master/Title%20Turd.jpg)
 
