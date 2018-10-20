@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Title Turd
 // @namespace    https://github.com/johnnyawesome
-// @version      3.0
+// @version      4.0
 // @description  Adds a little PooP to the title of your Tab!
 // @author       JohnnyAwesome
 // @match        *://*/*
@@ -11,7 +11,7 @@
 // @downloadURL  https://github.com/johnnyawesome/TitleTurd/raw/master/Title%20Turd.user.js
 // ==/UserScript==
 
-//lalala
+//Trololo
 
 (function() {
     'use strict';
