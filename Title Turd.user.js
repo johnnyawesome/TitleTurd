@@ -7,6 +7,8 @@
 // @match        *://*/*
 // @grant        none
 // @icon         https://cdn0.iconfinder.com/data/icons/pixelo/32/skull.png
+//@updateURL     https://github.com/johnnyawesome/TitleTurd/edit/master/Title%20Turd.user.js
+//@downloadURL   https://github.com/johnnyawesome/TitleTurd/edit/master/Title%20Turd.user.js
 // ==/UserScript==
 
 (function() {
