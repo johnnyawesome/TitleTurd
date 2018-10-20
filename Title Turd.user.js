@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Title Turd
 // @namespace    https://github.com/johnnyawesome
-// @version      1.0
+// @version      1.1
 // @description  Adds a little PooP to the title of your Tab!
 // @author       JohnnyAwesome
 // @match        *://*/*
@@ -10,6 +10,8 @@
 //@updateURL     https://github.com/johnnyawesome/TitleTurd/raw/master/Title%20Turd.user.js
 //@downloadURL   https://github.com/johnnyawesome/TitleTurd/raw/master/Title%20Turd.user.js
 // ==/UserScript==
+
+//lalala
 
 (function() {
     'use strict';
