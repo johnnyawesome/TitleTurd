@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Title Turd
 // @namespace    https://github.com/johnnyawesome
-// @version      1.1.1
+// @version      1.1.2
 // @description  Adds a little PooP to the title of your Tab!
 // @author       JohnnyAwesome
 // @match        *://*/*
